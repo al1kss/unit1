@@ -33,3 +33,8 @@ print(False)
 <img width="89" alt="Screenshot 2024-08-29 at 15 38 47" src="https://github.com/user-attachments/assets/c4b20d9f-4546-4406-8a7e-1ac912f56979">
 <img width="109" alt="Screenshot 2024-08-29 at 15 39 15" src="https://github.com/user-attachments/assets/b8afa62d-918b-4808-ae8c-6d4ee56dfeca">
 <img width="269" alt="Screenshot 2024-08-29 at 15 39 47" src="https://github.com/user-attachments/assets/512074ee-38a5-4194-9fd5-7ea17bd53875">
+
+
+### For my info
+Where is it on PC
+>Documents/Coding/CS Lessons/Quizzes/quiz002
