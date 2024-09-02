@@ -57,3 +57,29 @@ y = mystery_box2(surname)
 print(x, y)
 print(mail)
 ```
+
+### Mystery Box 3
+```.py
+a, b, c = map(int, input().split())
+
+for i in range(1, 10000000):
+    if i % a == 0 and i % b == 0 and i % c == 0:
+        print(i)
+        exit()
+```
+
+### Mystery Box 4
+```.py
+a = input()
+
+x = a.split()
+x.sort()
+x.reverse()
+x.remove(x[0])
+x.remove(x[0])
+
+sum = 0
+for i in x:
+    sum+=int(i)
+print(sum/len(x))
+```
