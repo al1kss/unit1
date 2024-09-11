@@ -1,0 +1,25 @@
+# Quiz 005
+
+## Paper Solution
+<sub> _soon..._ </sub>
+
+## Code
+```.py
+text = input().lower()
+
+sum = 0
+for i in range(len(text)):
+    sum += ord(text[i])-96 if text[i] != " " else -32
+print(sum)
+```
+
+## Proof of work
+<img width="56" alt="Screenshot 2024-09-11 at 23 32 11" src="https://github.com/user-attachments/assets/abb26518-0d3f-4cff-a9e5-87b4ba25e368">
+<img width="103" alt="Screenshot 2024-09-11 at 23 32 27" src="https://github.com/user-attachments/assets/b39e1f6f-a602-4c84-896a-70e22592e521">
+<img width="148" alt="Screenshot 2024-09-11 at 23 32 50" src="https://github.com/user-attachments/assets/84ed7bcd-78cf-446b-aadb-b7fde2bf5723">
+
+
+
+### For my info
+Where is it on PC
+>Documents/Coding/CS Lessons/Quizzes/Unit 1/quiz005
