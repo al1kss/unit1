@@ -25,6 +25,8 @@ print(x)
 ## Proof of work
 <img width="157" alt="Screenshot 2024-09-12 at 1 07 34" src="https://github.com/user-attachments/assets/c5adb850-5a67-4aad-9a06-f1427ca2b40e">
 
+## Flow Diagram
+![CompScience FlowDiagrams (7)](https://github.com/user-attachments/assets/d0222dec-4e17-40e2-a24d-5efc17651640)
 
 ### For my info
 Where is it on PC
