@@ -18,7 +18,8 @@ print(sum)
 <img width="103" alt="Screenshot 2024-09-11 at 23 32 27" src="https://github.com/user-attachments/assets/b39e1f6f-a602-4c84-896a-70e22592e521">
 <img width="148" alt="Screenshot 2024-09-11 at 23 32 50" src="https://github.com/user-attachments/assets/84ed7bcd-78cf-446b-aadb-b7fde2bf5723">
 
-
+## Flow Diagram 
+![CompScience FlowDiagrams (5)](https://github.com/user-attachments/assets/fb26bf4c-8386-4ef3-b8b7-a831a3e2ab1d)
 
 ### For my info
 Where is it on PC
