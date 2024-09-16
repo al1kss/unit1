@@ -36,6 +36,8 @@ else:
 <img width="132" alt="Screenshot 2024-09-12 at 0 09 04" src="https://github.com/user-attachments/assets/3c3152d3-0de2-4928-82b3-7fe15d20f55c">
 <img width="146" alt="Screenshot 2024-09-12 at 0 09 18" src="https://github.com/user-attachments/assets/1ca521b4-184e-4c14-83bf-673e11a6c687">
 
+## Flow Diagram
+![CompScience FlowDiagrams (8)](https://github.com/user-attachments/assets/341b9016-2696-4642-8a66-09aee60ad8c7)
 
 ### For my info
 Where is it on PC
