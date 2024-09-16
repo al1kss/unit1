@@ -1,6 +1,5 @@
 # Quiz 001
 
-
 ## Paper Solution
 
 ![0D100E62-6617-4A03-AC56-BAC7DD380A70_1_201_a](https://github.com/user-attachments/assets/b2332979-3616-4680-b224-9071400debd4)
@@ -32,4 +31,4 @@ counter()
 <img width="299" alt="Screenshot 2024-08-21 at 20 46 04" src="https://github.com/user-attachments/assets/888e8888-1be1-40cd-a9df-56fc4c78973c">
 
 ## Flow Diagram
-<img width="375" alt="Screenshot 2024-09-16 at 17 38 21" src="https://github.com/user-attachments/assets/475bdfde-c61e-4f85-b777-a985e7796bf3">
+![CompScience FlowDiagrams (1)](https://github.com/user-attachments/assets/557a1d99-627e-4db4-a6c8-6cffa8e43dc4)
