@@ -30,6 +30,9 @@ for i in range(int(a) if len(a) > 0 else 20):
 <img width="183" alt="Screenshot 2024-09-11 at 23 43 57" src="https://github.com/user-attachments/assets/a7e923a2-1a21-4ba5-a4a9-e84214db2590">
 <img width="332" alt="Screenshot 2024-09-11 at 23 44 19" src="https://github.com/user-attachments/assets/c3b8b504-cfdd-464f-a4f3-233d6bc1215a">
 
+## Flow Diagram
+![CompScience FlowDiagrams (6)](https://github.com/user-attachments/assets/ed65ff37-5c0c-4105-b231-71cdebf6b6a3)
+
 ### For my info
 Where is it on PC
 >Documents/Coding/CS Lessons/Quizzes/Unit 1/quiz006
