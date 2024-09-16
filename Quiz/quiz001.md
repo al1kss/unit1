@@ -30,3 +30,6 @@ counter()
 <img width="180" alt="Screenshot 2024-08-21 at 20 41 12" src="https://github.com/user-attachments/assets/c3667c3c-ea0d-4536-9e54-bd4a9c126b8b">
 <img width="210" alt="Screenshot 2024-08-21 at 20 45 08" src="https://github.com/user-attachments/assets/ee3b4e89-5caf-44ad-a1b1-8f2f5bbbbc6d">
 <img width="299" alt="Screenshot 2024-08-21 at 20 46 04" src="https://github.com/user-attachments/assets/888e8888-1be1-40cd-a9df-56fc4c78973c">
+
+## Flow Diagram
+<img width="375" alt="Screenshot 2024-09-16 at 17 38 21" src="https://github.com/user-attachments/assets/475bdfde-c61e-4f85-b777-a985e7796bf3">
