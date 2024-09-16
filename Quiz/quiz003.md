@@ -17,7 +17,6 @@ print(out_protein)
 ```
 
 ## Proof of work
-
 <img width="36" alt="Screenshot 2024-09-11 at 23 09 23" src="https://github.com/user-attachments/assets/8be4a887-489f-438f-962a-2e0d825c9063">
 <img width="55" alt="Screenshot 2024-09-11 at 23 09 01" src="https://github.com/user-attachments/assets/19e64ad1-1980-418e-9280-16eb8dea4545">
 
