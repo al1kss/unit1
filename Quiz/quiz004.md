@@ -21,6 +21,8 @@ for i in range(1, 10000000):
 <img width="238" alt="Screenshot 2024-09-11 at 23 22 13" src="https://github.com/user-attachments/assets/9e497984-5a05-43d3-9607-1678ba912a80">
 <img width="91" alt="Screenshot 2024-09-11 at 23 22 32" src="https://github.com/user-attachments/assets/bf0d55d5-0e5d-49ae-855f-e00ecd8a6ff0">
 
+## Flow Diagram
+![CompScience FlowDiagrams (4)](https://github.com/user-attachments/assets/0818c0b5-5e12-48b0-8f88-2145b97c8b80)
 
 ### For my info
 Where is it on PC
