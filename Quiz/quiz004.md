@@ -1,7 +1,8 @@
 # Quiz 004
 
 ## Paper Solution
-<sub> _soon..._ </sub>
+
+![WhatsApp Image 2024-09-16 at 12 43 55 (1)](https://github.com/user-attachments/assets/e54ccef6-45d9-4c7a-b24a-66ee805477f8)
 
 ## Code
 ```.py
