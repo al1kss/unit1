@@ -19,6 +19,8 @@ PAY ATTENTION TO WORDS
 
 # Criterion B: Design
 ### System Diagram
+![Project 1](https://github.com/user-attachments/assets/735056c0-d688-4097-914c-c549c3ea1b21)
+
 
 ### Flow diagrams for algorithms
 
@@ -34,4 +36,4 @@ Do a "predicting machine" that randomly draws diagram (use / | \ to draw) (or li
 |-------------|-----------------------------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
 | 1           | 1st Meeting with the client                   | Obtained a problem definition, understand what the situation is | 10 min         | Sep 7                  | A         |
 | 2           | Brainstorm solutions to present to the client | A paragraph for the proposed solution                           | 20 min         | Sep 12                 | A         |
-|             |                                               |                                                                 |                |                        |           |
+| 3           | Create a System Diagram                       | Created a System Diagram using Google Slides                    | 20 min         | Sep 16                 | B         |
