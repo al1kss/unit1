@@ -14,8 +14,9 @@ PAY ATTENTION TO WORDS
 4. In password manager mode, the user should be able to perform CRUD operations (Create, Replace, Update, Delete):
    * Add a password (for example, for a website).
    * View the stored passwords (only if they re-enter the secret code).
-5. Save passwords permanently and securely  ###use some hashing etc.
+5. Save passwords permanently and securely
 6. Use the terminal to interact with the user.
+
 
 # Criterion B: Design
 ### System Diagram
@@ -37,3 +38,4 @@ Do a "predicting machine" that randomly draws diagram (use / | \ to draw) (or li
 | 1           | 1st Meeting with the client                   | Obtained a problem definition, understand what the situation is | 10 min         | Sep 7                  | A         |
 | 2           | Brainstorm solutions to present to the client | A paragraph for the proposed solution                           | 20 min         | Sep 12                 | A         |
 | 3           | Create a System Diagram                       | Created a System Diagram using Google Slides                    | 20 min         | Sep 16                 | B         |
+| 4           | Finish encryption decryption method           | Ready code                                                      | 90 min         | Sep 20                 |           |
