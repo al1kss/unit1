@@ -87,6 +87,7 @@ To address these concerns, I propose developing a secure password manager app fo
 | 19      |                                                                          |                     |                                                                        |                                                                                                                                                                                                                                                                               |
 
 ## Record of Tasks
+There are few tasks only because I try to do everything at once and therefore it is recorded as one task
 | Task Number | Planned Action                                | Planned outcome                                                 | Time estimated | Target Completion Date | Criterion |
 |-------------|-----------------------------------------------|-----------------------------------------------------------------|----------------|------------------------|-----------|
 | 1           | 1st Meeting with the client                   | Obtained a problem definition, understand what the situation is | 10 min         | Sep 7                  | A         |
@@ -103,13 +104,21 @@ To address these concerns, I propose developing a secure password manager app fo
 
 ### Techniques used
 >Functions
+>
 >For/While loops
+>
 >Input validation
+>
 >If statements
+>
 >Reading .csv
+>
 >Library random used
+>
 >Used ASCII colors
+>
 >Used ASCII text to make CLI look good
+>
 ### Citation
 Used in my code {:<10} to align text: https://mkaz.blog/working-with-python/string-formatting
 Got idea for list of games: chatgpt.com
@@ -119,16 +128,24 @@ Understood how to decrypt using the above encryption method with the help of: ru
 
 ## All code for this program
 > Download all code -> put it in one folder -> run real_main.py
+> 
 > Check Project/Codes/ to get all code and .csv
 
 ### Explanation of files
 > real_main.py --- Is where the main code is. And all UI is as well
+> 
 > main.py --- Is where the Password Manager is
+> 
 > games.py --- Is where all games are
+> 
 > colors.py --- Where all variables to change color easily across all files are stored
+> 
 > database.csv --- Where all accounts and their encrypted passwords with seed are stored
+> 
 > accounts.csv --- Where accounts name and their balance is stored (Could be implemented in database.csv as 4th element, but to make life easier created this)
+> 
 > games.csv --- List of all games, and how much you earn per every win in a game
+> 
 > word_scramble.txt --- List of words used for Word Scramble game
 
 Thank you for checking out my code!
