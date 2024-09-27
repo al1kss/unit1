@@ -5,6 +5,7 @@ import games
 import main
 import os
 
+
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_-+=. '
 chars = list(chars)
 
