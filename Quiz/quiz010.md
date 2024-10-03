@@ -2,6 +2,8 @@
 
 ## Paper Solution
 ![WhatsApp Image 2024-09-16 at 15 09 57](https://github.com/user-attachments/assets/011a0598-5689-47ea-b190-42aa29a43c19)
+![WhatsApp Image 2024-10-03 at 20 03 54](https://github.com/user-attachments/assets/c6971c83-dadf-4240-90e3-7c79f94cdd2d)
+
 
 ## Code
 ```.py
