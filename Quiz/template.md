@@ -1,4 +1,4 @@
-# Quiz 008
+# Quiz 0
 
 ## Paper Solution
 
@@ -12,4 +12,4 @@
 
 ### For my info
 Where is it on PC
->Documents/Coding/CS Lessons/Quizzes/Unit 1/quiz008
+>Documents/Coding/CS Lessons/Quizzes/Unit 1/quiz0
